@@ -38,6 +38,7 @@ sudo apt-get install python-setuptools
 sudo apt-get install python-dev
 sudo apt-get install unzip
 sudo apt-get install python-yaml
+sudo apt-get install gcc
 
 # this pip installation is used for problems arising with python-pip package installation and python 2.7.9
 
